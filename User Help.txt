@@ -1,0 +1,20 @@
+User Help
+
+Select your input method
+	1->Manual Input 
+	2->File Upload
+ 
+If You choose manual input method then:
+	1->Type Your Reviews in textarea
+	2->Click on Ok Button
+        3->Click on POS Tagging Button
+	4->Click on Extract Tuples Button
+	5->Show Scores and enjoy results
+
+If You choose file Upload method then:
+	1->Select your review file and upload it
+        2->Click on POS Tagging Button
+	3->Click on Extract Tuples Button
+	4->Show Scores and enjoy results
+
+
